@@ -1,0 +1,10 @@
+body{
+    padding-top: 50px;
+}
+
+.editar {
+    color: #FABADA;
+}
+.borrar {
+    color: red;
+}
